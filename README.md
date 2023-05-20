@@ -1,2 +1,2 @@
 # amf--smartContract
-This project is using Avalanche's gassless transaction 
+This project is for avalanche project
